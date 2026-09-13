@@ -404,7 +404,7 @@ sequenceDiagram
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-516%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-516%20hrs%2055%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-92%20hrs%2047%20mins-blue?style=flat)
 
@@ -414,7 +414,7 @@ sequenceDiagram
 
 **🐱 My GitHub Data** 
 
-> 📦 219.9 kB Used in GitHub's Storage 
+> 📦 220.0 kB Used in GitHub's Storage 
  > 
 > 🏆 177 Contributions in the Year 2026
  > 
@@ -451,48 +451,45 @@ Sunday                   100 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     9 hrs 38 mins       █████████████████░░░░░░░░   66.19 % 
-TypeScript               2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-Markdown                 1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-JavaScript               42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Java                     6 hrs 35 mins       █████████████████░░░░░░░░   66.90 % 
+TypeScript               2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
+JavaScript               42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 58 mins       ██████████████░░░░░░░░░░░   54.79 % 
-IntelliJ IDEA            6 hrs 35 mins       ███████████░░░░░░░░░░░░░░   45.21 % 
+Claude Code              4 hrs 56 mins       █████████████░░░░░░░░░░░░   50.18 % 
+IntelliJ IDEA            4 hrs 54 mins       ████████████░░░░░░░░░░░░░   49.82 % 
 
 🐱‍💻 Projects: 
-odolog                   6 hrs               ██████████░░░░░░░░░░░░░░░   41.23 % 
-YETI-125                 5 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   36.95 % 
-Cartree                  2 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
-scratch-2026-09-05-fb208512 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-T                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+YETI-125                 5 hrs 11 mins       █████████████░░░░░░░░░░░░   52.58 % 
+odolog                   4 hrs 40 mins       ████████████░░░░░░░░░░░░░   47.31 % 
+T                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-Mac                      14 hrs 33 mins      █████████████████████████   100.00 % 
+Mac                      9 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 17 mins (77.57%)
+⏱ AI Coding Time: 7 hrs 20 mins (74.38%)
 
-✍️ 2,311 lines written by AI, 165 lines written by hand (93.34% AI-written)
+✍️ 16 lines written by AI, 163 lines written by hand (8.94% AI-written)
 
-🔤 3,367,324 Input Tokens, 974,212 Output Tokens
+🔤 2,246,315 Input Tokens, 578,822 Output Tokens
 
-💵 $121.46 Estimated AI Cost This Week
+💵 $81.88 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 152 AI Prompts
+🧠 11 AI Sessions, 97 AI Prompts
 
-Sonnet                   2,418 lines         █████████████████████████   99.34 % 
-Opus                     16 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Opus                     16 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.34% of written lines came from AI
-📝 Concise Prompter — average 386 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 8.32% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 8.94% of written lines came from AI
+📄 Detailed Prompter — average 578 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🔍 Hands-On Reviewer — 91.06% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -512,7 +509,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sooindev/sooindev/main/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2026 02:05:00 UTC
+ Last Updated on 13/09/2026 01:59:55 UTC
 <!--END_SECTION:waka-->
 
 </details>
