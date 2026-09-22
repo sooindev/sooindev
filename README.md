@@ -60,16 +60,6 @@ flowchart LR
     S -. scheduled poll .-> X{{chzzk Open API}}
 ```
 
-## Activity
-
-<details>
-<summary>코딩 시간 리포트</summary>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</details>
-
 ---
 
 백엔드 포지션과 사이드 프로젝트 협업 모두 열려 있습니다. [sooinwithsound@gmail.com](mailto:sooinwithsound@gmail.com)
